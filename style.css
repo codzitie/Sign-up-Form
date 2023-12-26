@@ -1,0 +1,21 @@
+.img{
+    width:600px;
+    height:924px;
+}
+
+.main{
+    display: flex;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-left: 1000px; */
+    /* margin-bottom: 1000px; */
+}
+.button{
+    margin: auto;
+    margin-top:550px;
+    margin-right: 11100px;
+}
